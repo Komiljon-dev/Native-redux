@@ -1,0 +1,5 @@
+export const INCREMENT = 'INCREMENT'
+export const DECREMENT = 'DECREMENT'
+export const CHANGE_THEME = 'CHANGE_THEME'
+export const DISABLE_BUTTON = 'DISABLE_BUTTON'
+export const ENABLE_BUTTON = 'ENABLE_BUTTON'
